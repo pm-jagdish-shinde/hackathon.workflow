@@ -1,0 +1,16 @@
+.navbar-brand {
+    padding: 5px 15px;
+}
+
+#main {
+    margin-top: 50px;
+}
+
+.dashboard {
+    text-align: center;
+}
+
+.dashboard .start-capture {
+    width: 200px;
+    margin: 30px auto 0;
+}
