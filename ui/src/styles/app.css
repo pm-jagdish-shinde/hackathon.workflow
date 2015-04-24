@@ -14,3 +14,16 @@
     width: 200px;
     margin: 30px auto 0;
 }
+
+.collect {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.collect .initial-filters .form-group {
+    margin-right: 10px;
+}
+
+.collect .initial-filters span {
+    margin-right: 5px;
+}
